@@ -1,201 +1,201 @@
 [{
-    "pergunta": "Qual serviço da Azure é usado para criar e gerenciar redes virtuais?",
+    "enunciado": "Qual serviço da Azure é usado para criar e gerenciar redes virtuais?",
     "a": "Azure Virtual Network",
     "b": "Azure DNS",
     "c": "Azure Traffic Manager",
     "d": "Azure Load Balancer",
     "resposta": "a"
 },{
-    "pergunta": "Qual serviço da Azure é um serviço de balanceamento de carga global que direciona o tráfego de entrada para diferentes endpoints com base em regras de tráfego?",
+    "enunciado": "Qual serviço da Azure é um serviço de balanceamento de carga global que direciona o tráfego de entrada para diferentes endpoints com base em regras de tráfego?",
     "a": "Azure Regions",
     "b": "Azure DNS",
     "c": "Azure Traffic Manager",
     "d": "Azure Load Balancer",
     "resposta": "c"
 },{
-    "pergunta": "Qual serviço da Azure é um serviço de balanceamento de carga que distribui o tráfego de rede entre vários recursos, como máquinas virtuais ou instâncias de serviço?",
+    "enunciado": "Qual serviço da Azure é um serviço de balanceamento de carga que distribui o tráfego de rede entre vários recursos, como máquinas virtuais ou instâncias de serviço?",
     "a": "Azure Regions",
     "b": "Azure DNS",
     "c": "Azure Traffic Manager",
     "d": "Azure Load Balancer",
     "resposta": "d"
 },{
-    "pergunta": "O Assistente do Azure oferece recomendações na categoria de Desempenho para otimizar a infraestrutura e garantir que os recursos estejam configurados de maneira adequada para atender às demandas de carga de trabalho.",
+    "enunciado": "O Assistente do Azure oferece recomendações na categoria de Desempenho para otimizar a infraestrutura e garantir que os recursos estejam configurados de maneira adequada para atender às demandas de carga de trabalho.",
     "a": "verdadeiro",
     "b": "falso",
     "c": "",
     "d": "",
     "resposta": "a"
 },{
-    "pergunta": "O Assistente do Azure oferece recomendações na categoria de Custos para otimizar o uso de infraestrutura e garantir que os recursos não consumam mais do que o devido.",
+    "enunciado": "O Assistente do Azure oferece recomendações na categoria de Custos para otimizar o uso de infraestrutura e garantir que os recursos não consumam mais do que o devido.",
     "a": "verdadeiro",
     "b": "falso",
     "c": "",
     "d": "",
     "resposta": "b"
 },{
-    "pergunta": "Quais desses serviços é do tipo \"serveless\"?",
+    "enunciado": "Quais desses serviços é do tipo \"serveless\"?",
     "a": "Office 365",
     "b": "Azure Active Directory (Azure AD)",
     "c": "Azure Functions",
     "d": "Azure Containers",
     "resposta": "c"
 },{
-    "pergunta": "O Banco de Dados SQL do Azure é um serviço do tipo:",
+    "enunciado": "O Banco de Dados SQL do Azure é um serviço do tipo:",
     "a": "Infrastructure as a Service",
     "b": "Platform as a Service",
     "c": "Software as a Service",
     "d": "App as a Service",
     "resposta": "b"
 },{
-    "pergunta": "O Azure Virtual Machines é um serviço do tipo:",
+    "enunciado": "O Azure Virtual Machines é um serviço do tipo:",
     "a": "Infrastructure as a Service",
     "b": "Platform as a Service",
     "c": "Software as a Service",
     "d": "App as a Service",
     "resposta": "a"
 },{
-    "pergunta": "O Azure App Service é um serviço do tipo:",
+    "enunciado": "O Azure App Service é um serviço do tipo:",
     "a": "Infrastructure as a Service",
     "b": "Platform as a Service",
     "c": "Software as a Service",
     "d": "App as a Service",
     "resposta": "b"
 },{
-    "pergunta": "O Microsoft 365 (Office Online) é um serviço do tipo:",
+    "enunciado": "O Microsoft 365 (Office Online) é um serviço do tipo:",
     "a": "Infrastructure as a Service",
     "b": "Platform as a Service",
     "c": "Software as a Service",
     "d": "App as a Service",
     "resposta": "c"
 },{
-    "pergunta": "O Azure Functions é um serviço do tipo:",
+    "enunciado": "O Azure Functions é um serviço do tipo:",
     "a": "Infrastructure as a Service",
     "b": "Platform as a Service",
     "c": "Software as a Service",
     "d": "App as a Service",
     "resposta": "b"
 },{
-    "pergunta": "O Azure Kubernetes Service (AKS) é um serviço do tipo:",
+    "enunciado": "O Azure Kubernetes Service (AKS) é um serviço do tipo:",
     "a": "Infrastructure as a Service",
     "b": "Platform as a Service",
     "c": "Software as a Service",
     "d": "App as a Service",
     "resposta": "b"
 },{
-    "pergunta": "O serviço de ____ do Azure oferece várias opções de armazenamento em nuvem, como Blobs (objetos), Tabelas, Filas e Discos Gerenciados, atendendo às necessidades de armazenamento de dados e arquivos.",
+    "enunciado": "O serviço de ____ do Azure oferece várias opções de armazenamento em nuvem, como Blobs (objetos), Tabelas, Filas e Discos Gerenciados, atendendo às necessidades de armazenamento de dados e arquivos.",
     "a": "CPU",
     "b": "armazenamento",
     "c": "memória em nuvem",
     "d": "processamento",
     "resposta": "b"
 },{
-    "pergunta": "O CosmosDB é um...",
+    "enunciado": "O CosmosDB é um...",
     "a": "Banco de dados SQL similar ao MySQL",
     "b": "Banco de dados NoSQL similar ao MongoDB",
     "c": "Banco de dados SQL globalmente distribuído",
     "d": "Banco de dados NoSQL globalmente distribuído",
     "resposta": "d"
 },{
-    "pergunta": "O Azure Functions permite responder a eventos e acionadores ('trigers') específicos sem a necessidade de gerenciar infraestrutura",
+    "enunciado": "O Azure Functions permite responder a eventos e acionadores ('trigers') específicos sem a necessidade de gerenciar infraestrutura",
     "a": "verdadeiro",
     "b": "falso",
     "c": "",
     "d": "",
     "resposta": "a"
 },{
-    "pergunta": "O Serviço de Aplicativo do Azure é uma plataforma gerenciada que permite hospedar máquinas virtuais pré-configuradas para agilizar a execução de aplicativos web e back-ends com facilidade, sem precisar configurar a infraestrutura subjacente.",
+    "enunciado": "O Serviço de Aplicativo do Azure é uma plataforma gerenciada que permite hospedar máquinas virtuais pré-configuradas para agilizar a execução de aplicativos web e back-ends com facilidade, sem precisar configurar a infraestrutura subjacente.",
     "a": "verdadeiro",
     "b": "falso",
     "c": "",
     "d": "",
     "resposta": "b"
 },{
-    "pergunta": "O Azure Content Delivery Network (CDN) é utilizado principalmente para:",
+    "enunciado": "O Azure Content Delivery Network (CDN) é utilizado principalmente para:",
     "a": "Armazenar dados em bancos relacionais",
     "b": "Gerenciar identidades e acessos de usuários",
     "c": "Distribuir conteúdo de forma rápida e segura para usuários em diferentes regiões",
     "d": "Executar funções serverless em resposta a eventos",
     "resposta": "c"
 },{
-    "pergunta": "O ____ permite a realização de backup e recuperação de dados na nuvem, sendo vital para garantir a disponibilidade dos dados em caso de falhas.",
+    "enunciado": "O ____ permite a realização de backup e recuperação de dados na nuvem, sendo vital para garantir a disponibilidade dos dados em caso de falhas.",
     "a": "Serviço de Armazenamento",
     "b": "Serviço de Recuperação de Falhas",
     "c": "Serviço de Backup do Azure",
     "d": "Serviço de CDN",
     "resposta": "c"
 },{
-    "pergunta": "Qual desses é um serviço de análise de dados em tempo real que permite processar fluxos de informação rapidamente?",
+    "enunciado": "Qual desses é um serviço de análise de dados em tempo real que permite processar fluxos de informação rapidamente?",
     "a": "Azure Stream Analytics",
     "b": "Azure Big Data",
     "c": "Azure Flow Analytics",
     "d": "Azure Real-Time Big Data",
     "resposta": "a"
 },{
-    "pergunta": "Quais são os tipos de planos de suporte oferecidos pela Azure?",
+    "enunciado": "Quais são os tipos de planos de suporte oferecidos pela Azure?",
     "a": "Developer, Standard, Professional e Professional Direct",
     "b": "Básico, Developer, Standard e Plus",
     "c": "Básico, Developer, Professional e Professional Direct",
     "d": "Básico, Developer, Standard e Professional Direct",
     "resposta": "d"
 },{
-    "pergunta": "Qual benefício não está incluso no Plano Básico de suporte do Azure?",
+    "enunciado": "Qual benefício não está incluso no Plano Básico de suporte do Azure?",
     "a": "Suporte 24x7",
     "b": "consultas de cobrança",
     "c": "acessoria de desenvolvedores do Azure",
     "d": "acesso ao Azure Advisor",
     "resposta": "c"
 },{
-    "pergunta": "Qual serviço de Big Data da Azure é baseado no Apache Spark?",
+    "enunciado": "Qual serviço de Big Data da Azure é baseado no Apache Spark?",
     "a": "Azure DataBricks",
     "b": "Stream Analytics",
     "c": "Azure Big Data",
     "d": "Azure Data Lake",
     "resposta": "a"
 },{
-    "pergunta": "O que significa RBAC?",
+    "enunciado": "O que significa RBAC?",
     "a": "Controle de Acesso Baseado em Função",
     "b": "Rapidez, Blockchain, Acesso, Controle",
     "c": "Controle de Acesso Baseado em Cadastro",
     "d": "Controle de Acesso Baseado em Empresa",
     "resposta": "a"
 },{
-    "pergunta": "Qual das opções abaixo é um modelo de segurança que concede permissões com base nas funções do usuário dentro da organização?",
+    "enunciado": "Qual das opções abaixo é um modelo de segurança que concede permissões com base nas funções do usuário dentro da organização?",
     "a": "Azure Directory",
     "b": "USB",
     "c": "RBAC",
     "d": "RBOC",
     "resposta": "c"
 },{
-    "pergunta": "Uma conta da Azure pode ter um número ilimitado de assinaturas",
+    "enunciado": "Uma conta da Azure pode ter um número ilimitado de assinaturas",
     "a": "verdadeiro",
     "b": "falso",
     "c": "",
     "d": "",
     "resposta": "a"
 },{
-    "pergunta": "Uma conta da Azure pode ter até 20 assinaturas.",
+    "enunciado": "Uma conta da Azure pode ter até 20 assinaturas.",
     "a": "verdadeiro",
     "b": "falso",
     "c": "",
     "d": "",
     "resposta": "b"
 },{
-    "pergunta": "Para usar a calculadora de preços do Azure é preciso:",
+    "enunciado": "Para usar a calculadora de preços do Azure é preciso:",
     "a": "Tipo de recurso/serviço e quantidade",
     "b": "Região e número de cartão de crédito",
     "c": "Latência de conexão e tipo de recurso",
     "d": "grupo de recurso no qual será implantado e região",
     "resposta": "a"
 },{
-    "pergunta": "Qual dos fatores abaixo não influencia o preço de um recurso no Azure?",
+    "enunciado": "Qual dos fatores abaixo não influencia o preço de um recurso no Azure?",
     "a": "Região",
     "b": "Grupo de Recurso",
     "c": "Tipo de recurso",
     "d": "Tempo de Uso",
     "resposta": "b"
 },{
-    "pergunta": "O que é o \"Service Health\" (Integridade do Serviço) no Azure?",
+    "enunciado": "O que é o \"Service Health\" (Integridade do Serviço) no Azure?",
     "a": "Serviço que oferece informações sobre Incidentes, avisos e manutenções planejadas.",
     "b": "Serviço que oferece informações sobre eventos comunitários e termos de serviços.",
     "c": "Serviço que envia alertas quando um recurso para de funcionar corretamente.",
